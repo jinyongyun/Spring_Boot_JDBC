@@ -477,5 +477,5 @@ public interface RowMapper {
         }
     }
 }</code></pre><p id="b408281a-aa8c-47ff-98a9-86091f798837" class="">JdbcTemplate에 있던 executeQuery 메서드도 이런 식으로 수정해주고</p><p id="3796670d-9417-482c-9df6-7b19b7dd2420" class="">기존의 UserDao의 findByUserId의 리턴 값도 (User)로 타입캐스팅을 해준다.</p><p id="8c9a7b64-7f4f-4e13-b3dd-8f7728c37192" class="">
-</p><figure id="3a1f56bb-64ad-4716-b3b7-879c32c49689"><div class="source"><a href="JDBC%20%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3%E1%84%85%E1%85%A2%E1%84%86%E1%85%B5%E1%86%BC%20b60122a0dfdb472b8ba86c57f230a79a/%25E1%2584%2592%25E1%2585%25AA%25E1%2584%2586%25E1%2585%25A7%25E1%2586%25AB_%25E1%2584%2580%25E1%2585%25B5%25E1%2584%2585%25E1%2585%25A9%25E1%2586%25A8_2023-06-24_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB_12.07.04.mov">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b289cde2-5e07-4fd3-ac6e-a09c5d76714b/%E1%84%92%E1%85%AA%E1%84%86%E1%85%A7%E1%86%AB_%E1%84%80%E1%85%B5%E1%84%85%E1%85%A9%E1%86%A8_2023-06-24_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_12.07.04.mov</a></div></figure><p id="d5e8e90a-00ed-4868-9be1-e0bb1b7e79ac" class="">
+</p>
 </p></div></article></body></html>
